@@ -1,1 +1,2 @@
-Brain Tumor Classification
+This project aims to develop a machine-learning-based classification system for detecting and categorizing brain tumors from medical images using deep learning techniques.
+The core objective is to classify brain tumors into four categories: Glioma, Meningioma, Pituitary Tumor, and No Tumor using Convolutional Neural Networks (CNNs) and transfer learning with EfficientNetB0 fine-tuned on the MRI domain.
